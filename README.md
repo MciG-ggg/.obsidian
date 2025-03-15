@@ -1,4 +1,5 @@
 # Obsidian 配置与模板集合
+Forked from WncFnt
 
 这是一个精心设计的 Obsidian 配置集合，包含了丰富的插件配置、自定义样式、模板和脚本，旨在提供最佳的笔记体验。
 
