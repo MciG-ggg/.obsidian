@@ -5,3 +5,5 @@ workspace-mobile.json
 !.obsidian/
 !zob_config/
 !zob_source/
+*.md
+!README.md
