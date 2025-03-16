@@ -1,3 +1,7 @@
 plugins/remotely-save/main.js
 workspace.json
 workspace-mobile.json
+/**
+!.obsidian/
+!zob_config/
+!zob_source/
