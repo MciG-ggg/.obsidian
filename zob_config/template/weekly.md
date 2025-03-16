@@ -1,5 +1,5 @@
 ---
-title: "{{date}}"
+title: "{{date:YYYY}}-W{{date:WW}}-{{date:MM}}"
 tags:
   - 周记
 categories: dairy
@@ -22,4 +22,3 @@ mdate: " {{ date:YYYY-MM-DD }} "
 ## Next Week Plan
 
 ## THOUGHTS
-
