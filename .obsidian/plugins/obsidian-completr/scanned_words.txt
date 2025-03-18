@@ -161569,6 +161569,7 @@ referenced
 referred
 reform
 reveals
+rcore
 xv
 xpy
 xlb
@@ -173491,6 +173492,7 @@ RealEstate
 Recon
 RegionBLIP
 Refactor
+RFID
 WiscKey
 Web
 WIFI
