@@ -20737,6 +20737,7 @@ DFMs
 DINOv
 DepthContrast
 DiffCLIP
+Dogleg
 The
 Team
 TVM
@@ -33395,6 +33396,7 @@ SCTR
 SAMPro
 SpatialRGPT
 Shortcodes
+Steepest
 Interface
 Isomorphic
 Inference
