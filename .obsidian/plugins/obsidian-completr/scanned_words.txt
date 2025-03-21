@@ -57725,6 +57725,7 @@ Longitudinal
 LLaNA
 LeGO
 LOAM
+Levenberg
 Kernel
 Kernal
 Keys
@@ -85650,6 +85651,7 @@ MvNet
 MiniGPT
 Menu
 Minimal
+Marquardt
 JYY
 Jim
 Jina
