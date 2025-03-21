@@ -21,5 +21,7 @@
     "right-sidebar",
     "mermaid"
   ],
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14
 }
