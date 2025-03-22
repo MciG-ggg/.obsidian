@@ -8753,6 +8753,7 @@ CALIP
 Chellenge
 Customizable
 Config
+Cartographer
 Organazation
 OSTEP
 Operating
@@ -61647,6 +61648,7 @@ KERPLE
 Kernels
 KSAs
 Kitto
+KITTI
 os
 of
 on
