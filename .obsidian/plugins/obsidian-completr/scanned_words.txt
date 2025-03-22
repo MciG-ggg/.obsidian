@@ -8755,6 +8755,7 @@ Customizable
 Config
 Cartographer
 Coupled
+Closest
 Organazation
 OSTEP
 Operating
@@ -33401,6 +33402,8 @@ SAMPro
 SpatialRGPT
 Shortcodes
 Steepest
+Simultaneous
+Scan
 Interface
 Isomorphic
 Inference
@@ -73275,6 +73278,7 @@ Nguyen
 NeRF
 Nord
 NwCMABv
+NICP
 Programming
 Parallel
 PLAM
@@ -77534,6 +77538,7 @@ PartDistill
 PointSeg
 Projection
 Previous
+PLICP
 games
 go
 google
@@ -101350,6 +101355,7 @@ GLIP
 GreenPLM
 GgfpVotR
 GNSS
+GICP
 spring
 system
 size
