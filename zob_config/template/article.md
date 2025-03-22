@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: article
 tags:
   - 科研
 categories: 
