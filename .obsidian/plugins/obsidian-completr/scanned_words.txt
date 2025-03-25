@@ -28953,6 +28953,7 @@ Hardigree
 Hirvela
 Hendricks
 Health
+Hector
 Software
 Structure
 System
@@ -33404,6 +33405,7 @@ Shortcodes
 Steepest
 Simultaneous
 Scan
+Stm
 Interface
 Isomorphic
 Inference
@@ -41597,6 +41599,7 @@ Analysing
 AriGraph
 ARKitScenes
 AnuPpuccin
+AMCL
 java
 jyy
 js
@@ -53783,6 +53786,7 @@ Universal
 URLError
 USER
 ULIP
+UHF
 Linux
 Learning
 Large
@@ -61660,6 +61664,7 @@ KSAs
 Kitto
 KITTI
 Kylin
+Kame
 os
 of
 on
@@ -85668,6 +85673,7 @@ MiniGPT
 Menu
 Minimal
 Marquardt
+Mate
 JYY
 Jim
 Jina
@@ -173520,6 +173526,8 @@ RegionBLIP
 Refactor
 RFID
 RTAB
+RPLIDAR
+RVIZ
 WiscKey
 Web
 WIFI
