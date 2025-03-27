@@ -8756,6 +8756,7 @@ Config
 Cartographer
 Coupled
 Closest
+Clustering
 Organazation
 OSTEP
 Operating
@@ -12607,6 +12608,7 @@ OcCo
 OpenShape
 Obsidianite
 Odometry
+OMPL
 and
 all
 amp
@@ -20742,6 +20744,9 @@ DINOv
 DepthContrast
 DiffCLIP
 Dogleg
+Dijkstra
+DWA
+Django
 The
 Team
 TVM
@@ -37386,6 +37391,7 @@ International
 Innovations
 InvJoint
 IDF
+Impinj
 And
 Algorithm
 Analysis
@@ -41600,6 +41606,7 @@ AriGraph
 ARKitScenes
 AnuPpuccin
 AMCL
+ArUco
 java
 jyy
 js
@@ -53787,6 +53794,8 @@ URLError
 USER
 ULIP
 UHF
+Unity
+Unreal
 Linux
 Learning
 Large
@@ -85674,6 +85683,7 @@ Menu
 Minimal
 Marquardt
 Mate
+MoveIt
 JYY
 Jim
 Jina
@@ -89558,6 +89568,7 @@ Juicer
 JiuZhang
 Jiao
 Janicki
+Jetson
 workload
 wfn
 work
@@ -137762,6 +137773,8 @@ Fails
 Foundational
 FUTURE
 Forked
+Flask
+Flutter
 Quant
 Qa
 QR
@@ -173528,6 +173541,7 @@ RFID
 RTAB
 RPLIDAR
 RVIZ
+RealSense
 WiscKey
 Web
 WIFI
