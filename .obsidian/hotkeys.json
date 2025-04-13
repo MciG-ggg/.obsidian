@@ -335,5 +335,15 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [],
+  "templater-obsidian:create-zob_config/template/paste-latex-replace.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
