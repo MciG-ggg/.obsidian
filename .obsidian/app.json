@@ -16,5 +16,5 @@
   "trashOption": "local",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "zob_source/images",
-  "vimMode": true
+  "vimMode": false
 }

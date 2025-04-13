@@ -337,11 +337,10 @@
     }
   ],
   "obsidian-auto-link-title:auto-link-title-normal-paste": [],
-  "templater-obsidian:create-zob_config/template/paste-latex-replace.md": [
+  "templater-obsidian:zob_config/template/paste-latex-replace.md": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "V"
     }
