@@ -340,7 +340,8 @@
   "templater-obsidian:zob_config/template/paste-latex-replace.md": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "V"
     }
