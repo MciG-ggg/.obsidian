@@ -8765,6 +8765,7 @@ Checking
 Cycle
 Cutset
 Constraining
+Creational
 Organazation
 OSTEP
 Operating
@@ -12619,6 +12620,7 @@ Odometry
 OMPL
 Original
 Operator
+Observer
 and
 all
 amp
@@ -33438,6 +33440,8 @@ Series
 Sibiu
 Satisfaction
 SearchProblem
+Singleton
+Structural
 Interface
 Isomorphic
 Inference
@@ -77608,6 +77612,8 @@ Prize
 Pitesti
 PositionSearchProblem
 Pacman
+Patterns
+Proxy
 games
 go
 google
@@ -157541,6 +157547,7 @@ Beta
 Blind
 Bucharest
 Backtracking
+Behavioral
 rust
 recording
 ref
