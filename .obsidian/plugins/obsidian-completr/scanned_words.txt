@@ -33444,6 +33444,7 @@ Satisfaction
 SearchProblem
 Singleton
 Structural
+Spanning
 Interface
 Isomorphic
 Inference
@@ -53846,6 +53847,7 @@ Unstructured
 Unpacking
 Uninformed
 Uniform
+Union
 Linux
 Learning
 Large
@@ -61730,6 +61732,7 @@ KITTI
 Kylin
 Kame
 Kinnariya
+Kruskal
 os
 of
 on
@@ -77619,6 +77622,8 @@ PositionSearchProblem
 Pacman
 Patterns
 Proxy
+Prim
+Property
 games
 go
 google
@@ -85753,6 +85758,7 @@ Maps
 MRV
 Minimum
 Maintaining
+MST
 JYY
 Jim
 Jina
@@ -196765,6 +196771,7 @@ vpredclipped
 voice
 verbs
 valued
+vka
 debug
 design
 dead
