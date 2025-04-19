@@ -20768,6 +20768,7 @@ Dict
 Deepening
 Domains
 Degree
+Discount
 The
 Team
 TVM
@@ -25026,6 +25027,7 @@ TOHoviDC
 TMIattp
 Tightly
 Tradeoff
+Traces
 Hardware
 HPC
 Hulu
@@ -41657,6 +41659,7 @@ Arad
 Admissible
 Accessor
 AlphaStar
+Absorbing
 java
 jyy
 js
@@ -77629,6 +77632,7 @@ Patterns
 Proxy
 Prim
 Property
+POMDP
 games
 go
 google
@@ -169441,6 +169445,8 @@ Ensemble
 Expression
 Encapsulation
 Expectimax
+Exploitation
+Eligibility
 Raft
 Rocksdb
 Reader
