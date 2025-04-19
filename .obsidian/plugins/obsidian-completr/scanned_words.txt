@@ -33447,6 +33447,7 @@ SearchProblem
 Singleton
 Structural
 Spanning
+Simulated
 Interface
 Isomorphic
 Inference
@@ -85762,6 +85763,7 @@ MRV
 Minimum
 Maintaining
 MST
+MCMC
 JYY
 Jim
 Jina
