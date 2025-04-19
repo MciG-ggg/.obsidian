@@ -8769,6 +8769,7 @@ Constraining
 Creational
 Closure
 Chance
+CornersProblem
 Organazation
 OSTEP
 Operating
