@@ -17,6 +17,7 @@
 - `template.md`: 基础模板
 - `update_template.md`: 更新模板
 - `insert_clock.md`: 时钟插入模板
+- `paste-latex-replace.md`: 更改ai输出的Latex格式模板
 
 ### CSS 样式 (`/css`)
 - 用于存放自定义 CSS 样式文件
@@ -40,3 +41,4 @@
 - 2024-02-24: 更新周报模板
 - 2024-02-18: 添加思维导图搜索功能
 - 2024-02-12: 更新日常笔记模板和脚本
+- 2025-04-20: 更新ai输出Latex更改模板
