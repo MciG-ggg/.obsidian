@@ -28985,6 +28985,7 @@ Health
 Hector
 Hashable
 Hoeffding
+Heuristics
 Software
 Structure
 System
@@ -77634,6 +77635,7 @@ Proxy
 Prim
 Property
 POMDP
+Prospect
 games
 go
 google
