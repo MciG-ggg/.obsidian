@@ -1,11 +1,16 @@
+# 忽略全局内容
+/**
+# 例外：强制跟踪关键目录
+!.obsidian/
+!zob_config/
+# 例外：包含特定文件
+!README.md
+!zob_config/**/*.md
+!zob_config/README.md  # 显式包含
+# 其他忽略规则
 plugins/remotely-save/main.js
 workspace.json
 workspace-mobile.json
 **/.trash/
-/**
-!.obsidian/
-!zob_config/
 *.md
-!README.md
-!zob_config/**/*.md  # 确保 zob_config 中的 .md 被追踪
-zob_source/        # 忽略 zob_source 目录
+zob_source/
