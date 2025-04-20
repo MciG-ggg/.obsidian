@@ -3,6 +3,7 @@ plugins/remotely-save/main.js
 workspace.json
 workspace-mobile.json
 **/.trash/
+**/zob_source/
 
 # 强制跟踪关键目录
 !.obsidian/
