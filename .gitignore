@@ -1,10 +1,14 @@
+# 忽略特定文件/目录
 plugins/remotely-save/main.js
 workspace.json
 workspace-mobile.json
 **/.trash/
-/**
+
+# 强制跟踪关键目录
 !.obsidian/
 !zob_config/
+
+# 忽略所有 .md，但保留 README.md 和 zob_config 中的 .md
 *.md
 !README.md
-
+!zob_config/**/*.md 
