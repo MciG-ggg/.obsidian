@@ -2,7 +2,7 @@
   "accentColor": "#6687b2",
   "cssTheme": "Blue Topaz",
   "showViewHeader": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "custom",
