@@ -27,5 +27,7 @@
   "obsidian-vimrc-support",
   "obsidian-regex-replace",
   "note-to-mp",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-day-planner",
+  "dataview"
 ]
