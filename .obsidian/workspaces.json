@@ -157,7 +157,348 @@
           "zob_config/template"
         ]
       }
+    },
+    "MciG": {
+      "main": {
+        "id": "199d9449ae20e424",
+        "type": "split",
+        "children": [
+          {
+            "id": "93f14c4795bc86cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7b4e13c7d3323a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TASKS.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "TASKS"
+                }
+              },
+              {
+                "id": "f25c9703e16c6443",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "三相交流电路.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "三相交流电路"
+                }
+              },
+              {
+                "id": "faab4ffa341cac94",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "三相交流电路.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "三相交流电路"
+                }
+              },
+              {
+                "id": "6297243dd6ddb4e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "博客.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "博客"
+                }
+              },
+              {
+                "id": "be473b42d59f268a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "博客.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "博客"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4f14b17e268f90b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "88a447b3194ed60c",
+            "type": "tabs",
+            "dimension": 46.630360789652826,
+            "children": [
+              {
+                "id": "1d3e0639cf4c759c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "畸变",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "a50dbc06c6016297",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "三相交流电路.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "三相交流电路 的大纲"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "46497afe4f17b4ef",
+            "type": "tabs",
+            "dimension": 53.369639210347174,
+            "children": [
+              {
+                "id": "c43b02e295c4e846",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "18bcec4ee2a328a3",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Tag Folder"
+                }
+              },
+              {
+                "id": "38119d24dd106535",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "插件不再活动"
+                }
+              },
+              {
+                "id": "90f01b727fd8051a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5
+      },
+      "right": {
+        "id": "a2f3e69f1404aa81",
+        "type": "split",
+        "children": [
+          {
+            "id": "ee185182cd8a8c48",
+            "type": "tabs",
+            "dimension": 31.874999999999996,
+            "children": [
+              {
+                "id": "43f2a08e8da8da62",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f7e7f320318df68f",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-weekly",
+                  "state": {},
+                  "icon": "table-2",
+                  "title": "4月, 21–4月, 27"
+                }
+              },
+              {
+                "id": "08a2e95612ad41dd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "三相交流电路.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "三相交流电路 的反向链接列表"
+                }
+              },
+              {
+                "id": "213ddf67b9ac62fb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "98328103bdce2a61",
+            "type": "tabs",
+            "dimension": 68.125,
+            "children": [
+              {
+                "id": "0257b2a596ab0d9d",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": false,
+          "random-note:开始漫游笔记": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-kanban:创建新看板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "note-to-mp:复制到公众号": false,
+          "templates:插入模板": true,
+          "command-palette:打开命令面板": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "obsidian-git:Open Git source control": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "faab4ffa341cac94",
+      "mtime": "2025-04-21T14:33:12+08:00"
     }
   },
-  "active": "work"
+  "active": "MciG"
 }
