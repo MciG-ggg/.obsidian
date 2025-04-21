@@ -24,5 +24,5 @@
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
   "baseFontSize": 20,
-  "showRibbon": false
+  "showRibbon": true
 }
