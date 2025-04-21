@@ -1,7 +1,7 @@
 {
   "snapStepMinutes": 10,
   "progressIndicator": "bar",
-  "showTaskNotification": false,
+  "showTaskNotification": true,
   "zoomLevel": 1,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
@@ -28,7 +28,13 @@
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [],
-  "colorOverrides": [],
+  "colorOverrides": [
+    {
+      "text": "#important",
+      "darkModeColor": "#6e3737",
+      "color": "#ffa1a1"
+    }
+  ],
   "releaseNotes": false,
   "taskStatusOnCreation": " ",
   "eventFormatOnCreation": "task",
