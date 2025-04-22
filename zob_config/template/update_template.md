@@ -1,3 +1,7 @@
+---
+words:
+  2025-03-15: 68
+---
 <%*
     let updateData = tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss+08:00");
     let newContent = tp.file.content.replace(/(modify:)([\s,\d,-,:+]+)(.*)/, "modify: " + updateData);

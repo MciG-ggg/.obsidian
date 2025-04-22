@@ -1,19 +1,20 @@
 ---
-title: "{{date}}"
+title: "{{date:YYYY-MM-DD}}"
 tags:
   - "#日记"
 categories: dairy
-date: "{{ date:YYYY-MM-DDTHH:mm:ss+08:00 }}"
-modify: "{{ date:YYYY-MM-DDTHH:mm:ss+08:00 }}"
+date: "{{ date:YYYY-MM-DD}}"
+modify: "{{ date:YYYY-MM-DD}}"
 dir: dairy
 share: false
 cdate: "{{ date:YYYY-MM-DD }}"
 mdate: "{{ date:YYYY-MM-DD }}"
 words:
   2025-03-15: 11
+  2025-04-22: 12
 ---
 
-# {{date}}
+# {{date:YYYY-MM-DD}}
 
 ## LINKS
 
