@@ -105956,6 +105956,7 @@ searchAgent
 sampleTFile
 substr
 subfolders
+simpleRegex
 torch
 training
 tune
