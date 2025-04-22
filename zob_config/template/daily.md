@@ -9,6 +9,8 @@ dir: dairy
 share: false
 cdate: "{{ date:YYYY-MM-DD }}"
 mdate: "{{ date:YYYY-MM-DD }}"
+words:
+  2025-03-15: 11
 ---
 
 # {{date}}
