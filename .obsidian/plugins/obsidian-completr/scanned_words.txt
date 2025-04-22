@@ -4501,6 +4501,11 @@ clipboardContent
 cssclasses
 cachedRead
 commandid
+calendarData
+checked
+complexRegex
+contributionGraph
+cellStyleRules
 Computer
 Concepts
 ChatGpt
@@ -16784,6 +16789,7 @@ ade
 aebd
 alias
 assign
+animation
 Design
 Data
 Database
@@ -20775,6 +20781,8 @@ Domains
 Degree
 Discount
 Diary
+DataviewJS
+DAYS
 The
 Team
 TVM
@@ -28993,6 +29001,7 @@ Hector
 Hashable
 Hoeffding
 Heuristics
+Heatmap
 Software
 Structure
 System
@@ -49903,6 +49912,11 @@ pHZpDok
 pacman
 preview
 plaintext
+pink
+passed
+populated
+parseInt
+parseDateFromFilename
 Understanding
 USTC
 Unix
@@ -57835,6 +57849,7 @@ Lasso
 LightGBM
 LCV
 LIMIT
+LATEST
 Kernel
 Kernal
 Keys
@@ -65744,6 +65759,9 @@ ontology
 offerings
 ontologies
 obsidianUIMode
+opacity
+orange
+orangeToRed
 net
 nn
 need
@@ -81699,6 +81717,8 @@ gojSFe
 genre
 getradomnote
 getAbstractFileByPath
+getHabitInPage
+graphType
 MLsystem
 MLsys
 Mlsys
@@ -105957,6 +105977,11 @@ sampleTFile
 substr
 subfolders
 simpleRegex
+slideIn
+supplied
+showCurrentDayBorder
+startOfWeek
+showCellRuleIndicators
 torch
 training
 tune
@@ -110100,6 +110125,12 @@ tenacity
 taxonomy
 testStr
 templater
+timeline
+trackFlow
+timelineHTML
+troubleshooting
+titleStyle
+textAlign
 for
 fancy
 follow
@@ -114172,6 +114203,10 @@ fileName
 filmlength
 fullwidth
 foldermoc
+fadeIn
+fontSize
+fontWeight
+fillTheScreen
 model
 mass
 mindspore
@@ -118368,6 +118403,7 @@ modelling
 mtime
 myhome
 meditation
+marker
 blog
 batchsize
 batch
@@ -126621,6 +126657,10 @@ impacts
 incorporated
 institution
 iUrYmKL
+intensityScaleStart
+intensity
+intensityScaleEnd
+intensities
 you
 yX
 yYX
@@ -145872,6 +145912,8 @@ heapq
 heuristic
 hasOwnProperty
 habit
+highest
+habitIntensity
 up
 ucb
 universal
@@ -149741,6 +149783,7 @@ updating
 utilizes
 understanging
 underbrace
+uncomment
 kernel
 kickstart
 kdd
@@ -153591,6 +153634,7 @@ keepdims
 kanban
 keywords
 kEPV
+keyframes
 BladeDISC
 Bagua
 Blog
@@ -161775,6 +161819,8 @@ rating
 removeMarkdown
 randomNote
 randomline
+regex
+renderHeatmapCalendar
 xv
 xpy
 xlb
@@ -173715,6 +173761,7 @@ Rimnicu
 Remaining
 Revise
 RAII
+RegExp
 WiscKey
 Web
 WIFI
@@ -193042,6 +193089,8 @@ extensions
 enhancement
 excludeComments
 excludeCode
+entry
+enableMainContainerShadow
 vue
 vision
 variance
@@ -201126,6 +201175,12 @@ discuss
 deque
 director
 deddc
+defaults
+defaultEntryIntensity
+dateRangeValue
+dateRangeType
+dataSource
+dateField
 Youtube
 YOLO
 Your
