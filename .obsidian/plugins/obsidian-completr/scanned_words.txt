@@ -4501,6 +4501,7 @@ clipboardContent
 cssclass
 cachedRead
 commandid
+cssclasses
 Computer
 Concepts
 ChatGpt
