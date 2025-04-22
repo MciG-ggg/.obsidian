@@ -1,20 +1,20 @@
 ---
-title: "{{date:YYYY-MM-DD}}"
+title: <% tp.date.now('YYYY-MM-DD') %>
 tags:
   - "#日记"
 categories: dairy
-date: "{{ date:YYYY-MM-DD}}"
-modify: "{{ date:YYYY-MM-DD}}"
+date: <% tp.date.now('YYYY-MM-DD') %>
+modify: <% tp.date.now('YYYY-MM-DD') %>
 dir: dairy
 share: false
-cdate: "{{ date:YYYY-MM-DD }}"
-mdate: "{{ date:YYYY-MM-DD }}"
+cdate: <% tp.date.now('YYYY-MM-DD') %>
+mdate: <% tp.date.now('YYYY-MM-DD') %>
 words:
-  2025-03-15: 11
-  2025-04-22: 12
+  <% tp.date.now('YYYY-MM-DD') %>: 0  <!-- 初始字数设为 0 -->
+  2025-04-22: 14
 ---
 
-# {{date:YYYY-MM-DD}}
+# <% tp.date.now('YYYY-MM-DD') %>
 
 ## LINKS
 
@@ -33,5 +33,3 @@ words:
 ### Night
 
 #### Plan
-
-

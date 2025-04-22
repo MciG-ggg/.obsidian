@@ -1,4 +1,5 @@
 {
   "folder": "dairy/daily",
-  "format": "YYYY-WW-MM-DD-E"
+  "format": "YYYY-WW-MM-DD-E",
+  "template": "zob_config/template/daily"
 }
