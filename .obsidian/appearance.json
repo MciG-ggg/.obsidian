@@ -3,7 +3,7 @@
   "cssTheme": "Blue Topaz",
   "showViewHeader": true,
   "nativeMenus": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "custom",
     "tags",
