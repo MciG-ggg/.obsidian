@@ -114,5 +114,6 @@
   "blue-topaz-theme@@p-kanban-card-color-1@@light": "#F9F9F97A",
   "blue-topaz-theme@@p-kanban-border-color@@light": "#A0A0A012",
   "blue-topaz-theme@@admonition-bg-color@@light": "#FFFFFF00",
-  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style"
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@blur-p-kanban-frosted-glass": 4
 }
