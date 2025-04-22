@@ -1,7 +1,7 @@
 {
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
   "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
-  "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 2,
+  "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 4,
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
@@ -99,5 +99,8 @@
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
   "blue-topaz-theme@@font-family-folder-file-title": "'JetBrainsMono Nerd Font', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji',var(--font-interface)",
   "blue-topaz-theme@@font-monospace-theme": "'JetBrainsMono Nerd Font', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji',var(--font-interface)",
-  "blue-topaz-theme@@full-width-backlinks": true
+  "blue-topaz-theme@@full-width-backlinks": true,
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-grid-notebook-1",
+  "blue-topaz-theme@@bg-panel-page-opacity-cp": 0
 }
