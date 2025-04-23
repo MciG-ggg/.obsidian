@@ -8780,6 +8780,7 @@ Creational
 Closure
 Chance
 CornersProblem
+CartPole
 Organazation
 OSTEP
 Operating
@@ -20785,6 +20786,7 @@ Discount
 Diary
 DataviewJS
 DAYS
+Dueling
 The
 Team
 TVM
@@ -77683,6 +77685,7 @@ POMDP
 Prospect
 Poster
 Passive
+Prioritized
 games
 go
 google
@@ -85826,6 +85829,7 @@ MST
 MCMC
 Movie
 Media
+Monro
 JYY
 Jim
 Jina
@@ -169552,6 +169556,7 @@ Encapsulation
 Expectimax
 Exploitation
 Eligibility
+Experience
 Raft
 Rocksdb
 Reader
@@ -173770,6 +173775,7 @@ Revise
 RAII
 RegExp
 Regret
+Robbins
 WiscKey
 Web
 WIFI
