@@ -8783,6 +8783,7 @@ Closure
 Chance
 CornersProblem
 CartPole
+Cliff
 Organazation
 OSTEP
 Operating
