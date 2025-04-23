@@ -4508,6 +4508,8 @@ contributionGraph
 cellStyleRules
 contribution
 canlendar
+cssclass
+collapse
 Computer
 Concepts
 ChatGpt
@@ -16793,6 +16795,9 @@ aebd
 alias
 assign
 animation
+aria
+allowtransparency
+aliases
 Design
 Data
 Database
@@ -33477,6 +33482,8 @@ Simulated
 Setter
 Scott
 Sobolev
+Sans
+Segoe
 Interface
 Isomorphic
 Inference
@@ -73413,6 +73420,8 @@ NwCMABv
 NICP
 Nodes
 Netflix
+Noto
+Neue
 Programming
 Parallel
 PLAM
@@ -85830,6 +85839,7 @@ MCMC
 Movie
 Media
 Monro
+MMMM
 JYY
 Jim
 Jina
@@ -93679,6 +93689,11 @@ wheel
 workforce
 workplace
 wraper
+weekday
+weather
+windSpeedDay
+windSpeedNight
+weatherSvg
 lab
 lightning
 latex
@@ -101527,6 +101542,7 @@ GICP
 GBDT
 Goal
 Gammon
+Gambler
 spring
 system
 size
@@ -105993,6 +106009,9 @@ supplied
 showCurrentDayBorder
 startOfWeek
 showCellRuleIndicators
+sans
+serif
+scrolling
 torch
 training
 tune
@@ -110142,6 +110161,8 @@ timelineHTML
 troubleshooting
 titleStyle
 textAlign
+toUpperCase
+todayweather
 for
 fancy
 follow
@@ -126672,6 +126693,7 @@ intensityScaleStart
 intensity
 intensityScaleEnd
 intensities
+iconDay
 you
 yX
 yYX
@@ -137966,6 +137988,8 @@ Forest
 Ford
 Fagaras
 Ftp
+Finite
+FBDA
 Quant
 Qa
 QR
@@ -157675,6 +157699,7 @@ Backtracking
 Behavioral
 Backgammon
 Banner
+BlinkMacSystemFont
 rust
 recording
 ref
@@ -165567,6 +165592,7 @@ xuqinyang
 xgboost
 xsec
 xaiver
+xlink
 Effective
 Edx
 Elements
@@ -169557,6 +169583,7 @@ Expectimax
 Exploitation
 Eligibility
 Experience
+Episode
 Raft
 Rocksdb
 Reader
@@ -173776,6 +173803,7 @@ RAII
 RegExp
 Regret
 Robbins
+Roboto
 WiscKey
 Web
 WIFI
@@ -181707,6 +181735,7 @@ VLOAM
 VIS
 VINS
 VotingClassifier
+Visit
 qq
 questions
 query
@@ -193105,6 +193134,7 @@ excludeComments
 excludeCode
 entry
 enableMainContainerShadow
+efefef
 vue
 vision
 variance
@@ -205012,6 +205042,7 @@ YeungNLP
 YYDS
 Yarn
 Yang
+YaHei
 Xg
 Xx
 XC
