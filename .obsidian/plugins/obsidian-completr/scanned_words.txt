@@ -41689,6 +41689,7 @@ AlphaStar
 Absorbing
 Achoice
 Aaabcb
+Atari
 java
 jyy
 js
@@ -77681,6 +77682,7 @@ Property
 POMDP
 Prospect
 Poster
+Passive
 games
 go
 google
