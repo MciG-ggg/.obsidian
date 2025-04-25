@@ -13,6 +13,7 @@ words:
   <% tp.date.now('YYYY-MM-DD') %>: 0  <!-- 初始字数设为 0 -->
   2025-04-22: 14
   2025-04-24: 24
+  2025-04-25: 29
 ---
 
 # <% tp.date.now('YYYY-MM-DD') %>
@@ -25,6 +26,7 @@ words:
 - [ ] #habit reading::
 - [ ] #habit outputing::
 - [ ] #habit Leetcode::
+- [ ] 滚动更新
 ## Daily Plan
 
 ### Morning
