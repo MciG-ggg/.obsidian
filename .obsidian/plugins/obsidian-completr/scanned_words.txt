@@ -20794,6 +20794,7 @@ DataviewJS
 DAYS
 Dueling
 Dyna
+Disjoint
 The
 Team
 TVM
@@ -25057,6 +25058,7 @@ Tutorials
 TikZ
 Trajectories
 Timisoara
+Tarjan
 Hardware
 HPC
 Hulu
@@ -126707,6 +126709,7 @@ intensity
 intensityScaleEnd
 intensities
 iconDay
+isConnected
 you
 yX
 yYX
