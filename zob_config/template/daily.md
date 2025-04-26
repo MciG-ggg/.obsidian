@@ -26,7 +26,7 @@ words:
 - [ ] #habit reading::
 - [ ] #habit outputing::
 - [ ] #habit Leetcode::
-- [x] 滚动更新 ✅ 2025-04-26
+- [ ] 滚动更新
 ## Daily Plan
 
 ### Morning
