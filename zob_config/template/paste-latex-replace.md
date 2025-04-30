@@ -1,3 +1,7 @@
+---
+words:
+  2025-04-13: 110
+---
 <%*
     // 获取剪贴板内容而不是整个文件内容
     const clipboardContent = await navigator.clipboard.readText()
