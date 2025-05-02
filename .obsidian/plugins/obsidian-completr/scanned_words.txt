@@ -37534,6 +37534,7 @@ IDATN
 IDATh
 IDATxG
 IDW
+Indicator
 And
 Algorithm
 Analysis
@@ -57958,6 +57959,7 @@ LHyr
 LSg
 LEb
 Locomotion
+Linearity
 Kernel
 Kernal
 Keys
