@@ -8,6 +8,8 @@ dir: dairy
 share: true
 cdate: 2024-12-09
 mdate: 2024-12-09
+words:
+  2025-03-15: 741
 ---
 
 # thoughts_search_dataviewjs
