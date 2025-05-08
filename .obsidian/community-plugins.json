@@ -36,5 +36,6 @@
   "contribution-graph",
   "heatmap-calendar",
   "tasks-calendar-wrapper",
-  "note-chain"
+  "note-chain",
+  "obsidian-mkdocs-publisher"
 ]
