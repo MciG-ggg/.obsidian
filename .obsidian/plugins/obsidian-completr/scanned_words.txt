@@ -4516,6 +4516,10 @@ cpBdt
 cgQE
 cmo
 caJM
+ctime
+cmath
+currentCount
+calculateFee
 Computer
 Concepts
 ChatGpt
@@ -16829,6 +16833,7 @@ amdgc
 axBZ
 aCtHRK
 await`
+addVehicle
 Design
 Data
 Database
@@ -50025,6 +50030,8 @@ pCya
 pKfw
 population
 parking
+plate
+plateLength
 Understanding
 USTC
 Unix
@@ -65894,6 +65901,8 @@ owf
 oRWt
 oKpD
 oOOOolll
+ofstream
+outFile
 net
 nn
 need
@@ -69745,6 +69754,7 @@ nofold
 nbK
 nXI
 nOk
+nullptr
 Network
 Nvidia
 NCNN
@@ -81880,6 +81890,11 @@ gNTU
 ggoe
 gnL
 getter
+getExitTime
+getEntryTime
+getFee
+getHistoryVehicles
+getCurrentVehicles
 MLsystem
 MLsys
 Mlsys
@@ -97929,6 +97944,7 @@ lnQ
 llp
 lxa
 libevent
+largeRate
 GPU
 GPT
 Google
@@ -106194,6 +106210,12 @@ sHj
 sxI
 socket
 setter
+smallRate
+setFee
+savedCapacity
+setEntryTime
+setExitTime
+setRate
 torch
 training
 tune
@@ -110350,6 +110372,7 @@ tWtt
 tKa
 tYm
 tiVf
+typeLength
 for
 fancy
 follow
@@ -114435,6 +114458,8 @@ fbJ
 fOA
 fFwNV
 filesystem
+fstream
+filePath
 model
 mass
 mindspore
@@ -126906,6 +126931,8 @@ iQEm
 iNc
 iAlUGE
 iAQi
+ifstream
+inFile
 you
 yX
 yYX
@@ -146190,6 +146217,9 @@ hfe
 hnW
 hLDP
 hair
+hourlyRateSmall
+hourlyRateLarge
+hourlyRate
 up
 ucb
 universal
@@ -162122,6 +162152,9 @@ rDq
 roB
 rGif
 rH`r
+removeVehicle
+reinterpret
+reserve
 xv
 xpy
 xlb
@@ -193447,6 +193480,9 @@ eIB
 eGM
 ealm
 epoll
+emplace
+entryTime
+exitTime
 vue
 vision
 variance
@@ -197260,6 +197296,7 @@ vtY
 vehicle
 von
 vehicles
+vehicleCount
 debug
 design
 dead
@@ -201553,6 +201590,7 @@ dIhhhiE
 dMi
 daysDiff
 dat
+dataFilePath
 Youtube
 YOLO
 Your
