@@ -146230,6 +146230,7 @@ hair
 hourlyRateSmall
 hourlyRateLarge
 hourlyRate
+hugo
 up
 ucb
 universal
