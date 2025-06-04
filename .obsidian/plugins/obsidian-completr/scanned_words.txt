@@ -8809,6 +8809,7 @@ Cfg
 CDDDDDDDt
 CUDD
 CDM
+CoAP
 Organazation
 OSTEP
 Operating
@@ -25153,6 +25154,7 @@ TVVM
 TBO
 TvFm
 TPWQ
+Telnet
 Hardware
 HPC
 Hulu
@@ -29123,6 +29125,7 @@ HOKMMa
 HTHD
 HbBbF
 HIolb
+HTTPS
 Software
 Structure
 System
@@ -33607,6 +33610,10 @@ SkBD
 SRRn
 SZVV
 Sbaa
+SMTP
+SNMP
+Slack
+Subscriber
 Interface
 Isomorphic
 Inference
@@ -37608,6 +37615,9 @@ IDDDDDDDDDt
 IDATR
 IHhD
 IKOOKO
+IMAP
+ICMP
+IPFS
 And
 Algorithm
 Analysis
@@ -77954,6 +77964,9 @@ PTUD
 PVZv
 Phe
 Phya
+PuTTY
+Peer
+Packet
 games
 go
 google
@@ -134541,6 +134554,7 @@ Zxy
 ZJDvv
 ZmO
 ZLx
+Zoom
 Fusion
 Fine
 Framework
@@ -138441,6 +138455,8 @@ FSTUU
 FiK
 FFFx
 FZZZ
+FTP
+FileZilla
 Quant
 Qa
 QR
@@ -158211,6 +158227,8 @@ Bayesian
 BBmm
 BPpPuU
 BDFF
+BitTorrent
+Broker
 rust
 recording
 ref
@@ -178439,6 +178457,7 @@ WsQQQU
 Wes
 WCDC
 WTTjj
+WebRTC
 Values
 VP
 Vz
@@ -209414,6 +209433,7 @@ XMLHttpRequest
 XIiY
 XQQu
 XFSTz
+XMPP
 ßc
 ß`
 ßS
