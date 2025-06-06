@@ -29127,6 +29127,8 @@ HTHD
 HbBbF
 HIolb
 HTTPS
+HttpRequest
+HttpResponse
 Software
 Structure
 System
@@ -138463,6 +138465,7 @@ FFFx
 FZZZ
 FTP
 FileZilla
+Found
 Quant
 Qa
 QR
