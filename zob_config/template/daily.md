@@ -23,10 +23,10 @@ words:
 ## THOUGHTS
 
 ## HABITS
-- [ ] #habit reading::
-- [ ] #habit outputing::
-- [ ] #habit Leetcode::
-- [ ] 滚动更新
+- [x] #habit reading:: ✅ 2025-06-09
+- [x] #habit outputing:: ✅ 2025-06-09
+- [x] #habit Leetcode:: ✅ 2025-06-09
+- [x] 滚动更新 ✅ 2025-06-09
 ## Daily Plan
 
 ### Morning
