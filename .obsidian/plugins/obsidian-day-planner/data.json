@@ -42,5 +42,6 @@
   "firstDayOfWeek": "monday",
   "multiDayRange": "work-week",
   "showTimeTracker": false,
-  "showActiveClocks": false
+  "showActiveClocks": false,
+  "rawIcals": []
 }
