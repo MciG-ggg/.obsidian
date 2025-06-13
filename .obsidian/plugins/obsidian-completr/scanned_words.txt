@@ -8811,6 +8811,7 @@ CDDDDDDDt
 CUDD
 CDM
 CoAP
+Cliphist
 Organazation
 OSTEP
 Operating
@@ -20874,6 +20875,7 @@ DTZZ
 DDvv
 DbQyy
 Ddmm
+Dolphin
 The
 Team
 TVM
@@ -29130,6 +29132,8 @@ HIolb
 HTTPS
 HttpRequest
 HttpResponse
+Hyprland
+Hyprpicker
 Software
 Structure
 System
@@ -33618,6 +33622,9 @@ SMTP
 SNMP
 Slack
 Subscriber
+Scratchpad
+Snip
+Steam
 Interface
 Isomorphic
 Inference
@@ -58085,6 +58092,7 @@ LLTn
 LvYX
 Lhm
 Live
+Lutris
 Kernel
 Kernal
 Keys
@@ -62018,6 +62026,7 @@ KMn
 KfQU
 KMEE
 KtDD
+Kitty
 os
 of
 on
@@ -138471,6 +138480,7 @@ FZZZ
 FTP
 FileZilla
 Found
+Firefox
 Quant
 Qa
 QR
@@ -174396,6 +174406,7 @@ RDfEG
 RSp
 RdY
 RCD
+Rofi
 WiscKey
 Web
 WIFI
