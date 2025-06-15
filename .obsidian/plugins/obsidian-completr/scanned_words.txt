@@ -138481,6 +138481,7 @@ FTP
 FileZilla
 Found
 Firefox
+FontAwesome
 Quant
 Qa
 QR
