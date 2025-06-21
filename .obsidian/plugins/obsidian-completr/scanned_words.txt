@@ -66026,6 +66026,7 @@ oVt
 ohhT
 oMIN
 oOD
+outVehicle
 net
 nn
 need
@@ -82045,6 +82046,8 @@ gTZ
 gIBbJ
 goma
 gomato
+getAvailableSpaces
+getOccupiedSpaces
 MLsystem
 MLsys
 Mlsys
@@ -186086,6 +186089,7 @@ qiqqqt
 qda
 qbeb
 qssr
+queryVehicle
 zsm
 zn
 zO
