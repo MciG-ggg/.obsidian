@@ -25165,6 +25165,7 @@ TPWQ
 Telnet
 Tea
 Tick
+Theming
 Hardware
 HPC
 Hulu
@@ -33632,6 +33633,9 @@ Scratchpad
 Snip
 Steam
 Scope
+SUPER
+SHIFT
+Super
 Interface
 Isomorphic
 Inference
@@ -58101,6 +58105,8 @@ LvYX
 Lhm
 Live
 Lutris
+Launcher
+Left
 Kernel
 Kernal
 Keys
@@ -62035,6 +62041,7 @@ KfQU
 KMEE
 KtDD
 Kitty
+KEYBINDINGS
 os
 of
 on
@@ -162460,6 +162467,7 @@ rxg
 rxek
 rHex
 routine
+rofi
 xv
 xpy
 xlb
@@ -174438,6 +174446,7 @@ RCD
 Rofi
 Routine
 Redux
+Right
 WiscKey
 Web
 WIFI
@@ -178517,6 +178526,10 @@ WCDC
 WTTjj
 WebRTC
 Wire
+Waybar
+Wallpaper
+Wallbash
+Workspaces
 Values
 VP
 Vz
