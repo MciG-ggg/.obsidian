@@ -8815,6 +8815,7 @@ CoAP
 Cliphist
 Conventional
 Commits
+COPY
 Organazation
 OSTEP
 Operating
@@ -29141,6 +29142,7 @@ HttpRequest
 HttpResponse
 Hyprland
 Hyprpicker
+Hub
 Software
 Structure
 System
@@ -170213,6 +170215,8 @@ Explanation
 EwN
 EGEH
 EeMW
+EXPOSE
+ENTRYPOINT
 Raft
 Rocksdb
 Reader
@@ -174447,6 +174451,7 @@ Rofi
 Routine
 Redux
 Right
+RUN
 WiscKey
 Web
 WIFI
@@ -178530,6 +178535,7 @@ Waybar
 Wallpaper
 Wallbash
 Workspaces
+WORKDIR
 Values
 VP
 Vz
