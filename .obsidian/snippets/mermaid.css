@@ -1,31 +1,107 @@
-/* 默认浅色主题：黑色字体 */
-.mermaid .nodeLabel,
-.mermaid text,
+/* Mermaid Blue Topaz Dark Mode Custom CSS */
+:root {
+  --mermaid-bg: #181c27;
+  --mermaid-node-bg: #232a3a;
+  --mermaid-node-border: #3a4a6b;
+  --mermaid-text: #b8c7f1;
+  --mermaid-accent: #4e8cff;
+  --mermaid-secondary: #2e3a54;
+  --mermaid-edge: #4e8cff;
+  --mermaid-edge-label: #b8c7f1;
+  --mermaid-actor: #2e3a54;
+  --mermaid-actor-border: #4e8cff;
+  --mermaid-actor-text: #b8c7f1;
+}
+
+.mermaid {
+  background: var(--mermaid-bg) !important;
+  color: var(--mermaid-text) !important;
+}
+
+.mermaid .node rect,
+.mermaid .node ellipse,
+.mermaid .node circle {
+  fill: var(--mermaid-node-bg) !important;
+  stroke: var(--mermaid-node-border) !important;
+}
+
+.mermaid .node text {
+  fill: var(--mermaid-text) !important;
+}
+
+.mermaid .edgePath path,
+.mermaid .link {
+  stroke: var(--mermaid-edge) !important;
+}
+
+.mermaid .edgeLabel {
+  background: transparent !important;
+  fill: var(--mermaid-edge-label) !important;
+}
+
+.mermaid .cluster rect {
+  fill: var(--mermaid-secondary) !important;
+  stroke: var(--mermaid-accent) !important;
+}
+
+.mermaid .actor {
+  fill: var(--mermaid-actor) !important;
+  stroke: var(--mermaid-actor-border) !important;
+}
+
+.mermaid .actor text {
+  fill: var(--mermaid-actor-text) !important;
+}
+
 .mermaid .label {
-    color: #222 !important;
-    fill: #222 !important;
-    font-weight: 500 !important;
+  color: var(--mermaid-text) !important;
+  fill: var(--mermaid-text) !important;
 }
 
-/* 暗色主题：白色字体 */
-.theme-dark .mermaid .nodeLabel,
-.theme-dark .mermaid text,
-.theme-dark .mermaid .label {
-    color: #ecf0f1 !important;
-    fill: #ecf0f1 !important;
+.mermaid .messageLine0,
+.mermaid .messageLine1 {
+  stroke: var(--mermaid-accent) !important;
 }
 
-/* strong 标签适配 */
-.mermaid .nodeLabel strong,
-.mermaid text strong,
-.mermaid .label strong {
-    color: #000 !important;
-    fill: #000 !important;
-    font-weight: 600 !important;
+.mermaid .note {
+  fill: #2e3a54 !important;
+  stroke: #4e8cff !important;
+  color: #b8c7f1 !important;
 }
-.theme-dark .mermaid .nodeLabel strong,
-.theme-dark .mermaid text strong,
-.theme-dark .mermaid .label strong {
-    color: #fff !important;
-    fill: #fff !important;
+
+.mermaid .note text {
+  fill: #b8c7f1 !important;
+}
+
+.mermaid .loopText, .mermaid .loopLine {
+  fill: #4e8cff !important;
+  stroke: #4e8cff !important;
+}
+
+.mermaid .activation {
+  fill: #4e8cff !important;
+  stroke: #4e8cff !important;
+}
+
+.mermaid .title {
+  fill: var(--mermaid-accent) !important;
+  font-weight: bold;
+}
+
+.mermaid .task {
+  fill: #232a3a !important;
+  stroke: #4e8cff !important;
+}
+
+.mermaid .taskText {
+  fill: #b8c7f1 !important;
+}
+
+.mermaid .done {
+  fill: #2e3a54 !important;
+  stroke: #4e8cff !important;
+}
+
+.mermaid .doneText {
+  fill: #b8c7f1 !important;
 }
