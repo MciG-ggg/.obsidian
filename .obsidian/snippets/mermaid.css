@@ -1,59 +1,31 @@
-/* Mermaid 样式优化 */
-
-body {
-    --mermaid-font-family: 'JetBrainsMono Nerd Font', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji', var(--font-interface);
-}
-
-/* 通用节点样式 */
-.mermaid .node:not([class*="id"]) rect:not([style*="fill"]):not([style*="stroke"]),
-.mermaid .node:not([class$="id"]) circle:not([style*="fill"]):not([style*="stroke"]),
-.mermaid .node:not([class$="id"]) ellipse:not([style*="fill"]):not([style*="stroke"]),
-.mermaid .node:not([class$="id"]) polygon:not([style*="fill"]):not([style*="stroke"]),
-.mermaid .node:not([class$="id"]) path:not([style*="fill"]):not([style*="stroke"]) {
-    fill: #2c3e50 !important;
-    stroke: #3498db !important;
-    stroke-width: 1.5px !important;
-    rx: 5px !important;
-    ry: 5px !important;
-}
-
-.mermaid .edgePath .path,
-.mermaid .flowchart-link {
-    stroke: #3498db !important;
-    stroke-width: 1.5px !important;
-}
-
+/* 默认浅色主题：黑色字体 */
+.mermaid .nodeLabel,
+.mermaid text,
 .mermaid .label {
-    font-family: var(--mermaid-font-family) !important;
-    font-size: 14px !important;
-}
-
-/* 默认（浅色主题）下节点文字为黑色 */
-.mermaid .nodeLabel {
     color: #222 !important;
+    fill: #222 !important;
     font-weight: 500 !important;
 }
 
-/* 暗色主题下节点文字为白色 */
-.theme-dark .mermaid .nodeLabel {
+/* 暗色主题：白色字体 */
+.theme-dark .mermaid .nodeLabel,
+.theme-dark .mermaid text,
+.theme-dark .mermaid .label {
     color: #ecf0f1 !important;
+    fill: #ecf0f1 !important;
 }
 
-.mermaid .nodeLabel strong {
+/* strong 标签适配 */
+.mermaid .nodeLabel strong,
+.mermaid text strong,
+.mermaid .label strong {
     color: #000 !important;
+    fill: #000 !important;
     font-weight: 600 !important;
 }
-.theme-dark .mermaid .nodeLabel strong {
+.theme-dark .mermaid .nodeLabel strong,
+.theme-dark .mermaid text strong,
+.theme-dark .mermaid .label strong {
     color: #fff !important;
-}
-
-.mermaid .marker {
-    fill: #3498db !important;
-    stroke: #3498db !important;
-}
-
-/* 暗色主题适配 */
-.theme-dark .mermaid > svg {
-    filter: none;
-    background-color: transparent !important;
+    fill: #fff !important;
 }
