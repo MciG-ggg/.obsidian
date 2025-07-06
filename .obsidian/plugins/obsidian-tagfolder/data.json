@@ -6,7 +6,7 @@
   "hideOnRootTags": "",
   "sortType": "DISPNAME_ASC",
   "sortExactFirst": false,
-  "sortTypeTag": "ITEMS_ASC",
+  "sortTypeTag": "ITEMS_DESC",
   "expandLimit": 2,
   "disableNestedTags": false,
   "hideItems": "NONE",
@@ -40,5 +40,6 @@
   },
   "linkShowOnlyFDR": true,
   "linkCombineOtherTree": true,
-  "showListIn": ""
+  "showListIn": "",
+  "displayFolderAsTag": false
 }

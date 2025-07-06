@@ -17,9 +17,12 @@
     "ribbon",
     "status-bar",
     "externel-link-icon",
+    "search",
+    "mermaid",
     "scrollbar",
     "right-sidebar",
-    "fonts"
+    "header",
+    "codeblock"
   ],
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
