@@ -3,7 +3,7 @@
   "cssTheme": "Blue Topaz",
   "showViewHeader": true,
   "nativeMenus": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "custom",
     "tags",
@@ -18,7 +18,6 @@
     "status-bar",
     "externel-link-icon",
     "search",
-    "mermaid",
     "scrollbar",
     "right-sidebar",
     "header",
@@ -26,6 +25,6 @@
   ],
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
-  "baseFontSize": 12,
+  "baseFontSize": 10,
   "showRibbon": true
 }

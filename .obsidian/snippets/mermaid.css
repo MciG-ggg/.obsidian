@@ -1,107 +1,66 @@
-/* Mermaid Blue Topaz Dark Mode Custom CSS */
-:root {
-  --mermaid-bg: #181c27;
-  --mermaid-node-bg: #232a3a;
-  --mermaid-node-border: #3a4a6b;
-  --mermaid-text: #b8c7f1;
-  --mermaid-accent: #4e8cff;
-  --mermaid-secondary: #2e3a54;
-  --mermaid-edge: #4e8cff;
-  --mermaid-edge-label: #b8c7f1;
-  --mermaid-actor: #2e3a54;
-  --mermaid-actor-border: #4e8cff;
-  --mermaid-actor-text: #b8c7f1;
+/* Mermaid: 自动根据组件背景色切换字体颜色 */
+
+/* 1. 浅色背景（用黑色字体） */
+.mermaid .node[style*="fill:#fff"],
+.mermaid .node[style*="fill:#ffffff"],
+.mermaid .node[style*="fill:#f9f"],
+.mermaid .node[style*="fill:#f0f0f0"],
+.mermaid .node[style*="fill:#eaeaea"],
+.mermaid .cluster[style*="fill:#fff"],
+.mermaid .cluster[style*="fill:#ffffff"],
+.mermaid .note[style*="fill:#fff"],
+.mermaid .note[style*="fill:#ffffe0"],
+.mermaid .note[style*="fill:#f9f9f9"] {
+  color: #111 !important;
+  fill: #111 !important;
+}
+.mermaid .node[style*="fill:#fff"] text,
+.mermaid .node[style*="fill:#ffffff"] text,
+.mermaid .node[style*="fill:#f9f"] text,
+.mermaid .node[style*="fill:#f0f0f0"] text,
+.mermaid .node[style*="fill:#eaeaea"] text,
+.mermaid .cluster[style*="fill:#fff"] text,
+.mermaid .cluster[style*="fill:#ffffff"] text,
+.mermaid .note[style*="fill:#fff"] text,
+.mermaid .note[style*="fill:#ffffe0"] text,
+.mermaid .note[style*="fill:#f9f9f9"] text {
+  fill: #111 !important;
 }
 
-.mermaid {
-  background: var(--mermaid-bg) !important;
-  color: var(--mermaid-text) !important;
+/* 2. 深色背景（用白色字体） */
+.mermaid .node[style*="fill:#222"],
+.mermaid .node[style*="fill:#232a3a"],
+.mermaid .node[style*="fill:#181c27"],
+.mermaid .node[style*="fill:#2e3a54"],
+.mermaid .node[style*="fill:#3a4a6b"],
+.mermaid .cluster[style*="fill:#232a3a"],
+.mermaid .cluster[style*="fill:#181c27"],
+.mermaid .note[style*="fill:#232a3a"],
+.mermaid .note[style*="fill:#2e3a54"] {
+  color: #fff !important;
+  fill: #fff !important;
+}
+.mermaid .node[style*="fill:#222"] text,
+.mermaid .node[style*="fill:#232a3a"] text,
+.mermaid .node[style*="fill:#181c27"] text,
+.mermaid .node[style*="fill:#2e3a54"] text,
+.mermaid .node[style*="fill:#3a4a6b"] text,
+.mermaid .cluster[style*="fill:#232a3a"] text,
+.mermaid .cluster[style*="fill:#181c27"] text,
+.mermaid .note[style*="fill:#232a3a"] text,
+.mermaid .note[style*="fill:#2e3a54"] text {
+  fill: #fff !important;
 }
 
-.mermaid .node rect,
-.mermaid .node ellipse,
-.mermaid .node circle {
-  fill: var(--mermaid-node-bg) !important;
-  stroke: var(--mermaid-node-border) !important;
-}
-
-.mermaid .node text {
-  fill: var(--mermaid-text) !important;
-}
-
-.mermaid .edgePath path,
-.mermaid .link {
-  stroke: var(--mermaid-edge) !important;
-}
-
-.mermaid .edgeLabel {
-  background: transparent !important;
-  fill: var(--mermaid-edge-label) !important;
-}
-
-.mermaid .cluster rect {
-  fill: var(--mermaid-secondary) !important;
-  stroke: var(--mermaid-accent) !important;
-}
-
-.mermaid .actor {
-  fill: var(--mermaid-actor) !important;
-  stroke: var(--mermaid-actor-border) !important;
-}
-
-.mermaid .actor text {
-  fill: var(--mermaid-actor-text) !important;
-}
-
-.mermaid .label {
-  color: var(--mermaid-text) !important;
-  fill: var(--mermaid-text) !important;
-}
-
-.mermaid .messageLine0,
-.mermaid .messageLine1 {
-  stroke: var(--mermaid-accent) !important;
-}
-
-.mermaid .note {
-  fill: #2e3a54 !important;
-  stroke: #4e8cff !important;
-  color: #b8c7f1 !important;
-}
-
+/* 3. 默认字体颜色（防止未覆盖到的情况） */
+.mermaid .node text,
+.mermaid .cluster text,
 .mermaid .note text {
-  fill: #b8c7f1 !important;
+  /* 默认用白色，浅色背景会被上面覆盖 */
+  fill: #fff;
 }
 
-.mermaid .loopText, .mermaid .loopLine {
-  fill: #4e8cff !important;
-  stroke: #4e8cff !important;
-}
-
-.mermaid .activation {
-  fill: #4e8cff !important;
-  stroke: #4e8cff !important;
-}
-
-.mermaid .title {
-  fill: var(--mermaid-accent) !important;
-  font-weight: bold;
-}
-
-.mermaid .task {
-  fill: #232a3a !important;
-  stroke: #4e8cff !important;
-}
-
-.mermaid .taskText {
-  fill: #b8c7f1 !important;
-}
-
-.mermaid .done {
-  fill: #2e3a54 !important;
-  stroke: #4e8cff !important;
-}
-
-.mermaid .doneText {
-  fill: #b8c7f1 !important;
+/* 4. Mermaid 图表全局背景色不影响组件字体色 */
+.mermaid {
+  /* 不设置 color，避免影响组件 */
 }
