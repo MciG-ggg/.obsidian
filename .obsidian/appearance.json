@@ -1,9 +1,9 @@
 {
-  "accentColor": "#6687b2",
-  "cssTheme": "Blue Topaz",
+  "accentColor": "#4b8b61",
+  "cssTheme": "Shimmering Focus",
   "showViewHeader": true,
   "nativeMenus": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "custom",
     "tags",
@@ -23,6 +23,6 @@
   ],
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "showRibbon": true
 }
