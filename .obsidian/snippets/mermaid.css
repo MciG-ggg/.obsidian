@@ -1,47 +1,56 @@
 /* Mermaid 样式优化 */
 
 body {
-    --mermaid-font-family: 'JetBrainsMono Nerd Font', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji',var(--font-interface)
+    --mermaid-font-family: 'JetBrainsMono Nerd Font', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji', var(--font-interface);
 }
 
+/* 通用节点样式 */
 .mermaid .node:not([class*="id"]) rect:not([style*="fill"]):not([style*="stroke"]),
 .mermaid .node:not([class$="id"]) circle:not([style*="fill"]):not([style*="stroke"]),
 .mermaid .node:not([class$="id"]) ellipse:not([style*="fill"]):not([style*="stroke"]),
 .mermaid .node:not([class$="id"]) polygon:not([style*="fill"]):not([style*="stroke"]),
 .mermaid .node:not([class$="id"]) path:not([style*="fill"]):not([style*="stroke"]) {
-    fill: #2c3e50 !important;  /* 更柔和的深色背景 */
-    stroke: #3498db !important;  /* 蓝色边框 */
-    stroke-width: 1.5px !important;  /* 稍微细一点的边框 */
-    rx: 5px !important;  /* 圆角效果 */
+    fill: #2c3e50 !important;
+    stroke: #3498db !important;
+    stroke-width: 1.5px !important;
+    rx: 5px !important;
     ry: 5px !important;
 }
 
 .mermaid .edgePath .path,
 .mermaid .flowchart-link {
-    stroke: #3498db !important;  /* 匹配边框颜色 */
+    stroke: #3498db !important;
     stroke-width: 1.5px !important;
 }
 
 .mermaid .label {
     font-family: var(--mermaid-font-family) !important;
-    font-size: 14px !important;  /* 适中的字体大小 */
+    font-size: 14px !important;
 }
 
+/* 默认（浅色主题）下节点文字为黑色 */
 .mermaid .nodeLabel {
-    color: #ecf0f1 !important;  /* 更柔和的文字颜色 */
+    color: #222 !important;
     font-weight: 500 !important;
 }
 
+/* 暗色主题下节点文字为白色 */
+.theme-dark .mermaid .nodeLabel {
+    color: #ecf0f1 !important;
+}
+
 .mermaid .nodeLabel strong {
-    color: #ffffff !important;
+    color: #000 !important;
     font-weight: 600 !important;
+}
+.theme-dark .mermaid .nodeLabel strong {
+    color: #fff !important;
 }
 
 .mermaid .marker {
-    fill: #3498db !important;  /* 匹配主题色 */
+    fill: #3498db !important;
     stroke: #3498db !important;
 }
-
 
 /* 暗色主题适配 */
 .theme-dark .mermaid > svg {
