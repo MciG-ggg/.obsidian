@@ -1,6 +1,6 @@
 {
   "accentColor": "#4b8b61",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "moonstone",
@@ -16,15 +16,15 @@
     "backlinks",
     "ribbon",
     "status-bar",
-    "externel-link-icon",
     "search",
-    "scrollbar",
     "right-sidebar",
     "header",
+    "externel-link-icon",
+    "scrollbar",
     "codeblock"
   ],
   "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 17,
   "showRibbon": true
 }
