@@ -37,5 +37,6 @@
   "heatmap-calendar",
   "tasks-calendar-wrapper",
   "note-chain",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "theme-picker"
 ]
